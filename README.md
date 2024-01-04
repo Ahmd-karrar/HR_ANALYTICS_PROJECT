@@ -28,8 +28,7 @@ The company wants to understand what parameters impact attrition in the organiza
   2.    Table of Attrition Rate for categorical variables such as Gender, Department vs Attrition.
   3.    Bar Chart: Mean or median of numeric variables for attrition=YES/NO.
   4.    Heatmap for 2 variables showing attrition rate
-
- ![heat](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/7c256f2f-0a4c-498e-8589-fd8b7b9ffbe4)
+![heat](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/7c256f2f-0a4c-498e-8589-fd8b7b9ffbe4)
 ![income](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/796de7fc-c18b-434e-935c-dbe3588df89c)
 ![comp](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/52407baf-c89c-4737-b673-781c6bb5fef9)
 
