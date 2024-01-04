@@ -16,4 +16,4 @@ The company wants to understand what parameters impact attrition in the organiza
 - To analyze attrition and correlate with other factors
 - To develop employee attrition model
 
-
+## [Data management](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/blob/main/Data_cleaning.py)
