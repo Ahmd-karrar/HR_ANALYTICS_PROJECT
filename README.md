@@ -33,7 +33,7 @@ The company wants to understand what parameters impact attrition in the organiza
 ![comp](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/52407baf-c89c-4737-b673-781c6bb5fef9)
 ![heat](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/7c256f2f-0a4c-498e-8589-fd8b7b9ffbe4)
 
-## [Build model]()
+## [Build model](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/blob/main/model.py)
 For all models, holdout validation has been used with 70% for training and 30% for testing and with default parameters.
 I tried four different models:
 - Binary logistic model
